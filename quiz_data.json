@@ -1,0 +1,25 @@
+[
+  {
+    "question": "What is my favorite color?",
+    "choices": ["Blue", "Pink", "Green", "Purple"],
+    "answer": "Pink"
+  },
+  {
+    "question": "What is my favorite music artist?",
+    "choices": ["Charli XCX", "Ariana Grande", "Noah Kahan", "Taylor Swift"],
+    "answer": "Charli XCX"
+  },
+  {
+    "question": "How many dogs do I have?",
+    "choices": ["0", "1", "2", "3"],
+    "answer": "2"
+  },{
+    "question": "How old am I?",
+    "choices": ["15", "18", "20", "17"],
+    "answer": "18"
+  },{
+    "question": "How many sisters do I have?",
+    "choices": ["1", "3", "5", "7"],
+    "answer": "5"
+  }
+]
